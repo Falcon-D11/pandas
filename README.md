@@ -3,11 +3,6 @@ This repository contains my learning notes, practice codes, and examples from a 
 
 ## Topics Covered
 
-### Introduction to Pandas
-- Why Do We Need Pandas?
-- Introduction to Pandas
-- Installation of Pandas
-
 ### Pandas Series
 - Creating a Series
 - Indexing in Pandas Series
